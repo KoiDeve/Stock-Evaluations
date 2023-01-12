@@ -2,6 +2,8 @@
 
 This project was created as an insight into data analytics, and how information can be used to grasp a better understanding of how operations are conducted. In this project, we will be exploring various technology stocks and how they are currently performing in the market. I have created several graphs to clarify how these current stocks are performing, and will include the source code in the repo as well.
 
+The data was provided by using an API to get information from Yahoo Finance during the time this analysis was conducted.
+
 ### (This evaluation was conducted for the time frame of 6/1/2022 - 12/1/2022).
 
 To start off, I created a visualization for how my selected tech stocks were performing over the last six months. For clarity, here is a key to identify the stocks:
